@@ -1,0 +1,11 @@
+store_id,store_name,city,opening_hours,floor_area_m2
+1,Store 1,Bengaluru,12,14000
+2,Store 2,Mumbai,12,11000
+3,Store 3,Hyderabad,11,9500
+4,Store 4,Pune,12,10000
+5,Store 5,Chennai,12,12500
+6,Store 6,Delhi,13,13000
+7,Store 7,Bengaluru,11,8000
+8,Store 8,Kolkata,12,9000
+9,Store 9,Ahmedabad,11,8500
+10,Store 10,Kochi,12,7500

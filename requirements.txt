@@ -1,0 +1,4 @@
+pandas
+numpy
+matplotlib
+mysql-connector-python   # only needed for load_energy_data.py and --source mysql
